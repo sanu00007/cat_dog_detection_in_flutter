@@ -1,18 +1,19 @@
-# cat_dog_detector
+# Cats and Dogs Detector App
 
-A new Flutter project.
+This is a Flutter application for detecting cats and dogs in images using a pre-trained TensorFlow Lite model.
+
+## Features
+
+- Capture a photo using the device camera.
+- Select a photo from the device gallery.
+- Detects whether the selected image contains a cat or a dog.
+- Displays the result with the probability of the prediction.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed on your machine.
+- Android/iOS emulator or a physical device connected for testing.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# cat_dog_detection_in_flutter" 
-"# cat_dog_detection_in_flutter" 
